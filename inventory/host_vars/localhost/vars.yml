@@ -1,0 +1,9 @@
+matrix_domain: "localhost"
+matrix_tls_enabled: false
+enable_matrix_registration: true
+matrix_homeserver_admin_password: "LocalOnlySuperSecret123"
+
+enable_element_web: true
+enable_synapse_admin_api: true
+
+foo:bar
